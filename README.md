@@ -1,2 +1,125 @@
 # 1937
 思博SPoto 2022年367班 思科 CCNA CCNP CCIE 课程、课件、作业资料齐全 | 完结
+### 微:NoBug1024 
+
+
+课程介绍：
+
+思博SPoto 2022年367班 思科 CCNA CCNP CCIE 课程、课件、作业资料齐全
+
+〖课程目录〗:
+
+- ├──CCNA 367班  
+- |   ├──课件  
+- |   |   ├──【CCNA 0-1】课程介绍.pdf  1.70M
+- |   |   ├──【CCNA 1-0】什么是网络.pdf  4.75M
+- |   |   ├──【CCNA 1-1】OSI七层网络模型.pdf  1.78M
+- |   |   ├──【CCNA 10-1】IPv6.pdf  3.55M
+- |   |   ├──【CCNA 11-1】Access Control List（访问控制列表）.pdf  2.67M
+- |   |   ├──【CCNA 12-1】NAT网络地址转换.pdf  2.44M
+- |   |   ├──【CCNA 13-1】WAN广域网技术.pdf  3.05M
+- |   |   ├──【CCNA 14-1】网络设计模型及案例分析.pdf  3.79M
+- |   |   ├──【CCNA 14-2】SDN简介及思科SDN解决方案.pdf  4.93M
+- |   |   ├──【CCNA 2-1】物理介质介绍.pdf  3.02M
+- |   |   ├──【CCNA 2-2】TCPIP协议簇.pdf  3.26M
+- |   |   ├──【CCNA 3-1】IP子网规划.pdf  2.53M
+- |   |   ├──【CCNA 4-1】网络设备硬件组成与功能.pdf  3.53M
+- |   |   ├──【CCNA 4-2】Cisco IOS介绍.pdf  814.25kb
+- |   |   ├──【CCNA 4-3】Cisco IOS配置管理.pdf  2.29M
+- |   |   ├──【CCNA 4-4】CDP思科发现协议.pdf  894.28kb
+- |   |   ├──【CCNA 5-1】交换基础-VLAN.pdf  1.86M
+- |   |   ├──【CCNA 5-2】交换基础-Trunk.pdf  1.22M
+- |   |   ├──【CCNA 6-1】冗余技术.pdf  3.60M
+- |   |   ├──【CCNA 6-2】DHCP.pdf  2.25M
+- |   |   ├──【CCNA 7-1】STP生成树.pdf  2.51M
+- |   |   ├──【CCNA 7-2】RSTP及PortFast.pdf  2.13M
+- |   |   ├──【CCNA 8-1】路由选择原理.pdf  3.48M
+- |   |   ├──【CCNA 8-2】静态路由.pdf  2.23M
+- |   |   ├──【CCNA 9-1】动态路由协议介绍.pdf  4.43M
+- |   |   └──【CCNA 9-2】OSPF.pdf  2.52M
+- |   └──录屏  
+- |   |   ├──01、开班仪式 & 计算机网络基础.mp4  295.48M
+- |   |   ├──02、TCP-IP协议簇.mp4  259.05M
+- |   |   ├──03、IP子网规划.mp4  243.25M
+- |   |   ├──04、设备基础管理.mp4  261.99M
+- |   |   ├──05、交换基础.mp4  269.98M
+- |   |   ├──06、交换冗余.mp4  258.64M
+- |   |   ├──07、生成树.mp4  234.79M
+- |   |   ├──08、静态路由.mp4  222.81M
+- |   |   ├──09、动态路由协议-OSPF.mp4  238.97M
+- |   |   ├──10、IPV6.mp4  242.94M
+- |   |   ├──11、ACL.mp4  221.54M
+- |   |   ├──12、NAT.mp4  206.80M
+- |   |   ├──13、广域网接入 & VPN技术.mp4  232.42M
+- |   |   └──14、网络设计模型 & SDN & 结课仪式.mp4  213.56M
+- ├──SPOTO CCNP 310  
+- |   ├──CCNP 思维导图  
+- |   |   ├──BGP.xmind  709.66kb
+- |   |   ├──EIGRP.xmind  180.80kb
+- |   |   ├──IPv6.xmind  3.93M
+- |   |   ├──OSPF.xmind  637.09kb
+- |   |   ├──STP生成树.xmind  297.27kb
+- |   |   ├──XMind下载地址.txt  0.03kb
+- |   |   ├──高可用.xmind  165.38kb
+- |   |   ├──交换安全.xmind  93.67kb
+- |   |   └──路径控制.xmind  172.30kb
+- |   ├──ppt  
+- |   |   ├──【CCNP 0-0】路由.pdf  717.73kb
+- |   |   ├──【CCNP 1-1】OSPF运行原理及基础配置.pdf  3.21M
+- |   |   ├──【CCNP 1-2】OSPF LSA&网络类型&路由类型.pdf  3.76M
+- |   |   ├──【CCNP 1-3】OSPF特殊区域和高级特性.pdf  844.50kb
+- |   |   ├──【CCNP 2-1】EIGRP介绍及运行原理 .pdf  2.72M
+- |   |   ├──【CCNP 2-2】EIGRP认证及高级特性.pdf  3.22M
+- |   |   ├──【CCNP 3-1】路由重分布.pdf  616.06kb
+- |   |   ├──【CCNP 3-2】路径控制.pdf  823.84kb
+- |   |   ├──【CCNP 4-1】BGP 概述.pdf  1020.60kb
+- |   |   ├──【CCNP 4-2】BGP的基础配置.pdf  1.40M
+- |   |   ├──【CCNP 4-3】BGP属性.pdf  1.29M
+- |   |   ├──【CCNP 4-4】BGP选路.pdf  858.48kb
+- |   |   ├──【CCNP 4-5】BGP高级特性.pdf  563.05kb
+- |   |   ├──【CCNP 5】IPv6.pdf  781.01kb
+- |   |   ├──【CCNP 6】STP.pdf  3.97M
+- |   |   ├──【CCNP 7】高可用性.pdf  4.08M
+- |   |   └──【CCNP 8】交换安全与DCN.pdf  2.45M
+- |   ├──TS  
+- |   |   ├──BGP-TS.txt  0.77kb
+- |   |   ├──EIGRP-TS.txt  1.38kb
+- |   |   └──OSPF-TS.txt  1.21kb
+- |   ├──01.route.mp4  244.99M
+- |   ├──02.ospf-1.mp4  347.09M
+- |   ├──03-ospf-2.mp4  335.93M
+- |   ├──04-ospf-3.mp4  386.95M
+- |   ├──05-eigrp-1.mp4  421.71M
+- |   ├──06-eigrp-2.mp4  370.92M
+- |   ├──07-redistribute.mp4  525.80M
+- |   ├──08-path_control-1.mp4  437.16M
+- |   ├──09-path_control-2.mp4  440.66M
+- |   ├──10-bgp-1.mp4  394.22M
+- |   ├──11-bgp-2.mp4  547.13M
+- |   ├──12-bgp-3.mp4  454.74M
+- |   ├──13-bgp-4.mp4  595.16M
+- |   ├──14-ipv6.mp4  411.85M
+- |   ├──15-stp.mp4  269.12M
+- |   ├──16-standby.mp4  317.62M
+- |   ├──17-交换安全&DCN.mp4  270.74M
+- |   ├──SecureCRT 8.3  .cz.rar  81.51M
+- |   └──实验视频讲解链接.txt  0.34kb
+- └──SPOTO VIP CCIE 98班录屏  
+- |   ├──01-开班-考试注意事项讲解.mp4  323.17M
+- |   ├──02-二层复习.mp4  393.00M
+- |   ├──03-EIGRP复习.mp4  373.92M
+- |   ├──04-OSPF复习.mp4  462.28M
+- |   ├──05-BGP复习.mp4  435.63M
+- |   ├──06-路径工具复习.mp4  303.91M
+- |   ├──07-ipv6以及IPSEC-V-PN01.mp4  408.04M
+- |   ├──08-IPSEC-V-PN02.mp4  927.48M
+- |   ├──09-DM-V-P-N.mp4  514.27M
+- |   ├──10-mpls转发工作原理.mp4  336.65M
+- |   ├──11-MPLS-LDP协议.mp4  475.12M
+- |   ├──12-MPLS-V-P-N架构.mp4  535.25M
+- |   ├──13-组播基础.mp4  361.29M
+- |   ├──14-组播PIM-DM协议.mp4  389.89M
+- |   ├──15-组播PIM-S-M协议.mp4  490.12M
+- |   ├──16-网络安全基础知识.mp4  396.42M
+- |   └──17-网络基础工具.mp4  213.41M
+- 
